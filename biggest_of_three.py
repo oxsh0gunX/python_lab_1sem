@@ -4,5 +4,5 @@ b = float(input("Enter second number: "))
 c = float(input("Enter third number: "))
 
 biggest = max(a, b, c)
-print("The biggest number is", biggest)
+print("The biggest number is an ", biggest)
 
