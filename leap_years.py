@@ -7,3 +7,4 @@ for i in range(1, limit + 1):
 print(f"The sum of numbers from 1 to {limit} is:")
 print(current_sum)
 
+  
