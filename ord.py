@@ -6,3 +6,4 @@ for char in word:
     ordinal_values.append(value)
 
 print(ordinal_values)
+  
