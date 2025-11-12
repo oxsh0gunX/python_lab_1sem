@@ -6,3 +6,4 @@ for num in numbers:
     squared_numbers.append(square)
 
 print(squared_numbers)
+ 
