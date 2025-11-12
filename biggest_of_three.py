@@ -6,3 +6,4 @@ c = float(input("Enter third number: "))
 biggest = max(a, b, c)
 print("The biggest number is an ", biggest)
 
+ 
