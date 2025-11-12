@@ -10,3 +10,4 @@ if sum(list1) == sum(list2):
     print("Both lists have the same sum")
 else:
     print("Lists have different sums")
+ 
