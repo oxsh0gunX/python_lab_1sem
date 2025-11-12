@@ -8,3 +8,4 @@ for char in text:
 for char, count in freq.items():
     print(f"{char}: {count}")
 
+ 
